@@ -1,1 +1,1 @@
-/ Pasta para organizar
+/ Pasta para organizar documentos do projeto
